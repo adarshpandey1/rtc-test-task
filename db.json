@@ -1,0 +1,54 @@
+{
+  "addBook": [
+    {
+      "bookData": {
+        "book_id": "ab12f34b-b93f-49b7-a096-06cdcdf87072",
+        "book_name": "Mystery",
+        "author_name": "Tom Brick",
+        "cover_image": "https://source.unsplash.com/user/c_v_",
+        "description": "We’ve all heard of the mystery book genres. It’s an extremely popular genre, and for a good reason."
+      },
+      "id": 1
+    },
+    {
+      "bookData": {
+        "book_id": "ab12f34b-b93f-49b7-a096-06cdcdf87072",
+        "book_name": "Rich Dad Poor Dad updated",
+        "author_name": "Tom Brick Jonald",
+        "cover_image": "https://source.unsplash.com/user/c_v_",
+        "description": "This book is awesome and teaches you a financial education"
+      },
+      "id": 2
+    },
+    {
+      "bookData": {
+        "book_id": "43298580-fa07-4666-b4f2-dc328a978dcc",
+        "book_name": "Dystopian",
+        "author_name": "TEST KHURANA",
+        "cover_image": "https://picsum.photos/id/237/200/300",
+        "description": "This is a newer book genre that’s really been picking up popularity within the last 5 to 10 years."
+      },
+      "id": 3
+    },
+    {
+      "bookData": {
+        "book_id": "2d7cbb2f-bdf7-4574-8687-42b133250c7c",
+        "book_name": "Epic Adventure Genre",
+        "author_name": "Lewis Denwid",
+        "cover_image": "https://picsum.photos/id/237/200/300",
+        "description": "As stated above for an epic fantasy, any genre that’s “epic” is characterized by the magnitude of the plot, character, or themes themselves."
+      },
+      "id": 4
+    },
+    {
+      "bookData": {
+        "book_id": "40922bb2-fd10-4eec-a206-d7db2f665a95",
+        "book_name": "Horror",
+        "author_name": "Lewis Donald",
+        "cover_image": "https://picsum.photos/id/237/200/300",
+        "description": "Horror novels are characterized by the fact that the main plot revolves around something scary and terrifying."
+      },
+      "id": 5
+    }
+  ]
+}
